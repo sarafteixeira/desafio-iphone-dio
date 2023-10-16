@@ -60,10 +60,10 @@ public class Iphone implements Reprodutor, Telefone, Navegador {
     public static void main(String[] args) throws InterruptedException {
         Scanner sc = new Scanner(System.in);
         Iphone iphone = new Iphone();
-        Contato contatos = new Contato();
         int menuDeOpcao;
         do {
-            System.out.println("-----MENU DE OPÇÃO----- \nSelecione uma opção: " +
+            System.out.println("-----MENU DE OPÇÃO----- " +
+                    "\nSelecione uma opção: " +
                     "\n|1| LIGAÇÃO" +
                     "\n|2| ATENDER LIGAÇÃO" +
                     "\n|3| INICIAR CORREIO DE VOZ" +
