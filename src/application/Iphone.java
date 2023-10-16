@@ -68,7 +68,7 @@ public class Iphone implements Reprodutor, Telefone, Navegador {
                     "\n|2| ATENDER LIGAÇÃO" +
                     "\n|3| INICIAR CORREIO DE VOZ" +
                     "\n|4| SELECIONAR MÚSICA" +
-                    "\n|5| TOCAR MÚSCIA" +
+                    "\n|5| TOCAR MÚSICA" +
                     "\n|6| PAUSAR MÚSICA" +
                     "\n|7| ABRIR NAVEGADOR" +
                     "\n|8| ABRIR UMA NOVA ABA" +
